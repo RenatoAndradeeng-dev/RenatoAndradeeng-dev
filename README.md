@@ -7,6 +7,10 @@
 
 ## Sou apaixonado por tecnologia e espero ajudar as pessoas por meio dela 😍🧑‍💻
 
+## Contato
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-andrade-557aa4233/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.gmail.com/renatinhoandrade@gmail.com)
+
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
