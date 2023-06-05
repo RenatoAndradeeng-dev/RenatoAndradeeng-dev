@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Renato+Andrade;Tenho+25+anos;I+from+Brasil,+PE;I+study+systems+development+at+HashtagProgramacao;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-![Renato Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoAndradeeng-dev&show_icons=true&theme=tokyonight)
+
 
 ## Sou apaixonado por tecnologia e espero ajudar as pessoas por meio dela 😍🧑‍💻
 
